@@ -1,0 +1,1551 @@
+ability:yetenek
+absence:yokluk
+abundance:bolluk
+accelerate:hızlandırmak
+acceptance:kabul
+access:erişim
+accomplish:başarmak
+account:haciz
+accuracy:doğruluk
+acknowledge:kabul etmek
+acquire:edinmek
+adapt:uyum sağlamak
+addition:ekleme
+adjust:ayarlamak
+administer:yönetmek
+admission:kabul
+advance:ilerleme
+advantage:avantaj
+adventure:macera
+advice:öneri
+affiliate:bağlı kuruluş
+afford:karşılamak
+agenda:gündem
+aggregate:toplamak
+allocation:ayırma
+amend:değiştirmek
+analyze:analiz etmek
+anniversary:yıl dönümü
+announcement:duyuru
+appliance:cihaz
+appreciate:takdir etmek
+approve:onaylamak
+architecture:mimari
+argue:tartışmak
+arrange:düzenlemek
+assessment:değerlendirme
+assign:tahsis etmek
+assist:yardım etmek
+associate:ilişkilendirmek
+assume:varsaymak
+attract:çekmek
+attribute:özellik
+audit:denetim
+authorize:yetkilendirmek
+automate:otomatikleştirmek
+availability:uygunluk
+award:ödül
+awareness:farkındalık
+allocate:ayırmak
+assess:değerlendirmek
+assert:iddia etmek
+archive:arşivlemek
+anticipate:beklemek
+align:hizalamak
+ascribe:atfetmek
+authenticate:doğrulamak
+amplify:güçlendirmek
+augment:artırmak
+articulate:açıkça ifade etmek
+abide:uymak
+abandon:terk etmek
+abolish:kaldırmak
+abstract:soyutlamak
+accommodate:uyum sağlamak
+accompany:eşlik etmek
+accumulate:biriktirmek
+accustom:alıştırmak
+activate:etkinleştirmek
+address:ele almak
+adhere:bağlı kalmak
+administrate:yönetmek
+admit:kabul etmek
+adopt:benimsemek
+advise:tavsiye etmek
+advocate:desteklemek
+affect:etkilemek
+affirm:doğrulamak
+announce:duyurmak
+annotate:not düşmek
+apply:uygulamak
+appraise:değerlendirmek
+apprehend:kavramak
+approximate:tahmini
+arbitrate:tahkim etmek
+ascertain:tespit etmek
+assemble:toplantı düzenlemek
+assure:temin etmek
+attach:bağlamak
+attend:katılmak
+avail:faydalanmak
+average:ortalama
+avert:önlemek
+balance:denge
+backup:yedekleme
+ban:yasaklamak
+bare:minik
+base:temel
+batch:toplu
+beam:ışın
+bear:taşımak
+beat:vurmak
+begin:başlamak
+behave:davranmak
+believe:inanmak
+benefit:fayda
+bless:emanet etmek
+blend:karıştırmak
+block:engellemek
+blow:darbe
+board:tahta
+boast:övünmek
+boost:artırmak
+borrow:ödünç almak
+bother:rahatsız etmek
+bounce:zıplamak
+bound:sınırlamak
+break:kırmak
+breathe:nefes almak
+brief:kısa
+bright:parlak
+bring:getirmek
+broadcast:yayın yapmak
+build:inşa etmek
+bulk:kütle
+bump:çarpmak
+burn:yakmak
+burst:patlamak
+bury:gömme
+buy:almak
+calculate:hesaplamak
+call:çağrı
+cancel:iptal etmek
+capture:yakalamak
+care:ilgi
+carry:taşımak
+categorize:kategorize etmek
+celebrate:kutlamak
+challenge:zorluk
+change:değiştirmek
+charge:ücret
+check:kontrol etmek
+cite:alıntı yapmak
+clarify:açıklamak
+classify:sınıflandırmak
+clean:temiz
+clear:açık
+click:tıklamak
+clone:klonlamak
+close:kapatmak
+cluster:küme
+coalesce:birleşmek
+code:kod
+collaborate:işbirliği yapmak
+collect:toplamak
+combine:birleştirmek
+command:komuta etmek
+communicate:iletişim kurmak
+compare:karşılaştırmak
+compete:yarışmak
+compile:derlemek
+complete:tamamlamak
+compose:oluşturmak
+compute:hisselmek
+conclude:sonuçlandırmak
+confirm:onaylamak
+conform:uyum sağlamak
+connect:bağlamak
+consider:düşünmek
+consist:meydana gelmek
+consolidate:güçlendirmek
+construct:inşa etmek
+consume:tüketmek
+contact:iletişim kurmak
+contain:içermek
+contemplate:düşünmek
+continue:devam etmek
+contract:sözleşme
+contrast:karşılaştırmak
+contribute:katkıda bulunmak
+control:kontrol etmek
+convert:dönüştürmek
+convey:iletmek
+cooperate:işbirliği yapmak
+coordinate:koordine etmek
+cope:başa çıkmak
+cede:devretmek
+celestial:gök
+cell:hücre
+century:yüzyıl
+ceremony:merasim
+certify:onaylamak
+champion:şampiyon
+channel:kanal
+charter:şartname
+chase:kovalamak
+cheer:tezahürat
+chemistry:kimya
+chief:şef
+childhood:çocukluk
+chip:çip
+choice:seçenek
+choose:seçmek
+circle:daire
+circuit:devre
+citizen:vatandaş
+claim:iddia etmek
+clarinet:klarnet
+clash:çatışma
+classic:klasik
+clearance:izin
+client:müşteri
+climate:iklim
+clock:saat
+cloth:kumaş
+coach:koç
+coal:kömür
+coast:sahil
+collective:toplumsal
+collision:çarpışma
+colonel:albay
+colony:koloni
+color:renk
+column:sütun
+combat:savaş
+comedy:komedi
+commander:komutan
+comment:yorum
+commerce:tüccarlık
+community:topluluk
+compact:sıkı
+company:şirket
+compass:pusula
+damage:zarar
+dance:dans etmek
+data:veri
+database:veritabanı
+date:tarih
+day:gün
+deal:anlaşma
+debate:tartışma
+debt:borç
+decide:karar vermek
+declare:ilan etmek
+decorate:süslemek
+decrease:azalmak
+dedicate:adamak
+deep:derin
+defend:savunmak
+define:tanımlamak
+degree:derece
+delay:gecikme
+delete:silmek
+deliver:teslim etmek
+demand:talep etmek
+demonstrate:göstermek
+denounce:kınamak
+depart:ayrılmak
+depend:bağlı olmak
+deploy:yerleştirmek
+deposit:yatırmak
+derive:türetmek
+descend:inmek
+describe:tanımlamak
+desire:istek
+destroy:yok etmek
+detail:detay
+detect:tespit etmek
+determine:belirlemek
+develop:geliştirmek
+device:cihaz
+deviate:sapmak
+devote:adamak
+diagnose:teşhis etmek
+dialog:diyalog
+diary:günlük
+die:ölüm
+differ:farklılık göstermek
+different:farklı
+difficult:zor
+dig:kazmak
+dimension:boyut
+dine:akşam yemeği yemek
+direct:doğrudan
+daily:günlük
+dancehall:dans salonu
+danger:tehlike
+dark:karanlık
+dataflow:veri akışı
+daylight:gündüz ışığı
+dealership:bayilik
+debrief:rapor vermek
+debut:ilk sahneye çıkış
+decisive:kararlı
+deem:kabul etmek
+deepen:derinleştirmek
+default:varsayılan
+defect:kusur
+definite:kesin
+definition:tanım
+delicate:hassas
+deliverance:kurtuluş
+deluxe:şahane
+demanding:zorlayıcı
+demonstration:gösteri
+dependable:güvenilir
+deployment:dağıtım
+depositary:depo
+deplore:üzülmek
+deployed:dağılmış
+depot:depo
+depth:derinlik
+descriptive:açıklamalı
+desireable:çekici
+desk:masa
+desktop:masaüstü
+desperate:umutsuz
+destiny:kader
+destroyer:yıkıcı
+detach:ayırmak
+detective:dedektif
+determined:kararlı
+developing:gelişmekte olan
+deviation:sapma
+devout:bağlı
+dexterity:hüner
+diagonal:çapraz
+dialogue:diyalog
+diamond:elmas
+earn:kazanmak
+earth:dünya
+ease:kolaylık
+east:doğu
+eat:yemek
+edge:kenar
+edit:düzenlemek
+educate:eğitmek
+effort:çaba
+elaborate:ayrıntılı
+elastic:esnek
+elect:seçmek
+elegant:zarif
+elevate:yükseltmek
+eliminate:ortadan kaldırmak
+embrace:kucaklamak
+emerge:ortaya çıkmak
+emotion:duygu
+emphasize:vurgulamak
+employ:kullanmak
+empty:boş
+enable:olanak sağlamak
+encompass:kapsamak
+encounter:karşılaşmak
+endure:dayanmak
+enforce:zorlamak
+engage:meşgul olmak
+enhance:artırmak
+enjoy:keyif almak
+enlarge:büyütmek
+ensure:sağlamak
+enter:girmek
+entertain:eğlendirmek
+enthusiasm:heves
+entire:tüm
+entrance:giriş
+enumerate:sıralamak
+environment:çevre
+equal:eşit
+equip:donatmak
+erase:silmek
+escape:kaçmak
+establish:kurmak
+estimate:tahmin etmek
+evaluate:değerlendirmek
+evolve:evrim geçirmek
+examine:incelemek
+exceed:aşmak
+excel:mükemmel olmak
+exchange:değiş tokuş etmek
+excite:heyecanlandırmak
+execute:uygulamak
+exhibit:sergilemek
+expand:genişletmek
+earnest:ciddi
+echo:yankı
+eclipse:güneş tutulması
+economize:tasarruf etmek
+ecosystem:ekosistem
+edition:baskı
+educator:eğitmen
+efficacy:etkililik
+elaboration:detaylandırma
+elasticity:esneklik
+elbow:dirsek
+electronic:elektronik
+elevation:yükseklik
+elite:seçkin
+elongate:uzatmak
+embark:başlamak
+embarrass:utanmak
+emigrate:göç etmek
+emission:yayılma
+empower:yetki vermek
+enact:yasa çıkarmak
+enclose:içermek
+endorse:onaylamak
+enlighten:aydınlatmak
+enlist:kayıt yaptırmak
+enrich:zenginleştirmek
+enticing:cazip
+entwine:sarılmak
+epic:destan
+epoch:çağ
+equation:denklem
+equilibrium:denge
+eradicate:kökünü kurutmak
+erect:dikmek
+erratic:düzensiz
+escalate:tırmanmak
+essential:gerekli
+establishment:kuruluş
+esteem:değer vermek
+eternity:sonsuzluk
+ethics:etik
+evacuate:tahliye etmek
+evaporate:buharlaşmak
+evergreen:hep yeşil
+evoke:çağrışım yapmak
+exaggerate:abartmak
+exemplify:örneklemek
+face:yüz
+facility:tesis
+factor:faktör
+fade:solmak
+fail:başarısız olmak
+fair:adil
+faith:inanç
+fall:düşmek
+familiar:tanıdık
+family:aile
+famous:ünlü
+fan:hayran
+fantasy:fantazi
+far:uzak
+fashion:moda
+fast:hızlı
+fatal:ölümcül
+fate:kader
+favor:iyilik
+fear:korku
+feature:özellik
+fee:ücret
+feel:hiss etmek
+festival:festival
+fetch:getirmek
+fever:ateş
+fiber:lif
+fiction:kurgu
+field:alan
+fight:savaşmak
+figure:şekil
+file:dosya
+fill:doldurmak
+film:film
+filter:filtre
+final:son
+finance:finans
+find:bulmak
+fine:ince
+finger:parmak
+finish:bitirmek
+fire:ateş
+firm:sıkı
+first:ilk
+fit:uygun
+fix:tamir etmek
+flag:bayrak
+flame:alev
+flash:parlamak
+flat:düz
+flight:uçuş
+float:uçmak
+floor:zemin
+fabric:kumaş
+faceless:yüzsüz
+faculty:fakülte
+fade away:uzaklaşmak
+fail to:başaramamak
+fairly:oldukça
+faithful:inançlı
+false:yanlış
+fame:şöhret
+family member:aile üyesi
+famine:kıtlık
+fancy:şık
+fantastic:harika
+far away:uzak
+fascinate:büyülemek
+fashionable:modaya uygun
+favorable:olumlu
+fearless:korkusuz
+features:özellikler
+feeble:guçsüz
+feeling:hissetme
+fertile:verimli
+fetching:getirici
+feverish:ateşli
+fiber optics:lif optik
+fickle:değişken
+fierce:vahşi
+filled with:dolu
+film star:film yıldızı
+filter out:elemek
+finalist:finale kalan
+financier:finansör
+finding:bulgu
+fine arts:güzel sanatlar
+fingerprint:parmak izi
+finished:bitmiş
+fireworks:havai fişek
+firmly:sıkıca
+first aid:ilk yardım
+fishing:balık avlama
+fit in:uyum sağlamak
+fix up:onarmak
+flavor:lezzet
+flee:kaçmak
+flexible:esnek
+fling at:fırlatmak
+flourish:gelişmek
+flow:akmak
+flu:grip
+fluctuate:değişmek
+gallery:sergi salonu
+game:oyun
+gap:boşluk
+garage:garaj
+garbage:çöp
+garden:bahçe
+gas:gaz
+gather:toplamak
+gender:cinsiyet
+general:genel
+generate:üretmek
+generation:nesil
+generator:jeneratör
+generic:genel
+genius:deha
+gentle:nazik
+genuine:gerçek
+geography:coğrafya
+gesture:jest
+get:almak
+giant:dev
+gift:hediye
+girl:kız
+give:vermek
+glad:memnun
+glance:bakış
+global:global
+glow:ışıldamak
+goal:hedef
+golf:golf
+good:iyi
+govern:hükmetmek
+grab:kavramak
+grace:zarafet
+graduate:mezun olmak
+grain:tane
+grand:büyük
+grant:bağışlamak
+grape:üzüm
+graphic:grafik
+grasp:kavramak
+grass:ot
+grateful:memnun
+gravity:yerçekimi
+gray:grid
+great:harika
+greet:selamlamak
+grid:kafes
+grief:acı
+grind:öğütmek
+grip:kavrama
+grocery:bakkal
+gadget:cihaz
+gain:kazanç
+galaxy:galaksi
+gallant:cesur
+gameplay:oyun oynama tarzı
+gang:çete
+gapless:boşluk bırakmayan
+garnish:süslemek
+gasoline:benzin
+gate:kapı
+gathered:toplanmış
+generous:cömert
+genesis:başlangıç
+genetic:genetik
+genial:neşeli
+geology:jeoloji
+getaway:kaçış
+gifted:yetenekli
+gigantic:kocaman
+glacier:buzul
+glamour:büyü
+glare:parlama
+glimpse:anlık bakış
+globalize:globalleştirmek
+glorious:şanlı
+glossy:parlak
+glowworm:ateşböceği
+goalkeeper: kaleci
+goblet:kadeh
+godfather:baba
+golden:altın rengi
+gorgeous:muhteşem
+government:hükümet
+graceful:zarif
+gradual:kademeli
+grainy:taneli
+grandeur:heybet
+grandiose:büyüklük taslayan
+grapevine:asma
+grasshopper:çekirge
+gravel:çakıl
+grimace:sırıtmak
+grin:gülümsemek
+grit:iri tane
+grizzle:beyazlamak
+grotesque:acayip
+groundbreaking:yenilikçi
+habit:alışkanlık
+hail:selam
+hair:saç
+hall:salon
+halt:durmak
+hand:el
+handle:ile başa çıkmak
+happen:olmak
+happy:mutlu
+harbor:liman
+hard:sert
+harvest:hasat
+haste:acele
+hate:nefret etmek
+have:sahip olmak
+hazard:tehlike
+heal:iyileştirmek
+health:saglık
+hear:duymak
+heart:kalp
+heat:ısı
+heaven:cennet
+heavy:ağır
+height:yükseklik
+hello:merhaba
+help:yardım etmek
+herald:habet etmek
+heritage:miras
+hero:kahraman
+hide:saklamak
+high:yüksek
+highlight:vurgulamak
+hike:yürüyüş yapmak
+hill:tepe
+hint:ipucu
+hire:kiralamak
+history:tarih
+hit:vurmak
+hold:tutmak
+holiday:tatil
+hollow:boş
+home:ev
+honor:onur
+hope:umut etmek
+horror:korku
+host:ev sahibi
+hotel:otel
+hour:saat
+hug:sarılmak
+humor:mizah
+hunt:avlamak
+hurry:acele etmek
+habitual:alışılmış
+hailstone:dolu tanesi
+haircut:saç kesimi
+hallucinate:halüsinasyon görmek
+handicap:sakatlık
+handshake:el sıkışma
+handsome:yakışıklı
+hang:asmak
+happenstance:tesadüf
+harass:taciz etmek
+hardware:donanım
+harmonize:uyum sağlamak
+harsh:sert
+harvesting:hasat
+hasten:acele etmek
+hatred:nefret
+haven:güvenli yer
+healing:iyileşme
+healthy:sağlıklı
+heartrate:kalp atış hızı
+hearty:sağlıklı
+heated:sıcak
+hectic:yoğun
+heighten:yükseltmek
+helpless:çaresiz
+hermit:eremit
+hesitate:tereddüt etmek
+hideaway:saklanacak yer
+hierarchical:hierarşik
+hijack:uçak kaçırmak
+hinder:engel olmak
+hitchhike:otostop çekmek
+hobby:hobi
+holler:bağırmak
+hollywood:holivut
+homeless:sokakta yaşayan
+homogeneous:homojen
+honest:dürüst
+honeymoon:beyaz gelinlik giyilen balayı
+hopeful:umutlu
+horde:kalabalık
+horoscope:burç
+hospital:hastane
+hostage:rehine
+household:ev halkı
+hover:sallanmak
+howl:ulumak
+idea:fikir
+identical:aynı
+identify:tanımlamak
+idle:boşta
+ignite:ateşlemek
+ignore:ihmal etmek
+illness:hastalık
+illuminate:aydınlatmak
+illusion:illüzyon
+illustrate:resimlemek
+image:resim
+imagine:hayal etmek
+imbibe:emmek
+imitate:taklit etmek
+immerse:daldırmak
+immune:bağışıklık
+impact:etki
+implement:uygulamak
+imply:ima etmek
+import:ithal etmek
+impose:zorlamak
+impress:etkilemek
+improve:geliştirmek
+include:dahil etmek
+incorporate:dahil etmek
+increase:artırmak
+incur:kazanmak
+indicate:belirtmek
+induce:neden olmak
+indulge:hoşgörmek
+inevitable:kaçınılmaz
+infant:bebek
+infer:sonuç çıkarmak
+infect:enfekte etmek
+inflate:şişirmek
+inflict:zarar vermek
+inform:bilgilendirmek
+infuse:katmak
+ingest:almak
+inhabit:yerleşmek
+inherit:miras almak
+inhibit:engellemek
+initiate:başlatmak
+inject:enjekte etmek
+injure:yaralamak
+innovate:yenilik yapmak
+input:giriş
+inquire:sormak
+inscribe:kazımak
+insert:yerleştirmek
+inspect:denetlemek
+inspire:ilham vermek
+install:kurmak
+ice:buz
+icon:simge
+implicate:karıştırmak
+implicit:içsel
+jacket:ceket
+jade:yeşim
+jagged:dalgalı
+jam:reçel
+jar:kavanoz
+jaw:çene
+jealous:kıskanç
+jeans:kot pantolon
+jeep:jeep
+jelly:jöle
+jewel:mücevher
+jigsaw:bulmaca
+jingle:çıngırak sesi
+jittery:sinirli
+job:iş
+jockey:jokey
+join:katılmak
+joint:eklem
+jolt:sarsıntı
+journal:günlük
+journey:seyahat
+joy:sevinç
+judge:hakim
+juggle:çalgınla oynamak
+juice:meyve suyu
+jump:atlama
+jungle:ormana
+junior:genç
+junk:çöp
+jury:jüri
+just:sadece
+justice:adalet
+justify:gerekçelendirmek
+juvenile:genç
+juxtapose:yanyana koymak
+jigsaw puzzle:mozaik bulmaca
+jazz:caz
+jellyfish:denizanası
+jovial:neşeli
+jubilant:sevinçli
+judgment:karar
+juggler:sihirbaz
+junction:kavşak
+juncture:nokta
+jurisdiction:hukuki yetki
+justification:gerekçe
+juxtaposition:yan yana koyma
+kangaroo:kanguru
+karate:karate
+karma:karmanınetkisi
+keen:keskin
+keep:tutmak
+kernel:çekirdek
+keyboard:klavye
+keynote:anatema
+kick:tekme
+kid:çocuk
+kidnap:çocuk kaçırmak
+kind:nazik
+kinetic:kinetik
+king:kral
+kiss:öpücük
+kit:takım
+kitchen:mutfak
+kiwi:kivi
+knack:yetenek
+knit:örmek
+knock:vurmak
+know:bilmek
+knowledge:bilgi
+known:bilinen
+knuckle:eklemler
+koala:koala
+kaleidoscope:kalaydoskop
+karaoke:karaoke
+kayak:kayak
+kennel:köpekbarınağı
+keg:fıçı
+kelp:denizmarulu
+kep:şapka
+kettle:çaydanlık
+keyword:anahtar kelime
+kiddo:çocuk
+kidney:böbrek
+kite:uçurtma
+kitten:yavrukedi
+knight:şövalye
+knot:duğum
+kudo:övgü
+kumquat:kumkuat
+kuvasz:kuvasz
+kumiss:kımız
+kungfu:kungfu
+kiosk:otomat
+kilogram:kilogram
+kilometer:kilometre
+kimono:kimono
+ketchup:ketçap
+keyboardist:klavyeci
+kibosh:sonlandırmak
+kibitz:seyirci olmak
+label:etiket
+laboratory:laboratuvar
+labyrinth:labirent
+lace:dantel
+lack:eksiklik
+ladder:merdiven
+lagoon:lagün
+lament:yalanmak
+lamp:lamba
+land:arazi
+landscape:peyzaj
+language:dil
+laptop:dizüstü bilgisayar
+large:büyük
+laser:lazer
+latitude:enlem
+laugh:gülmek
+launch:fırlatmak
+laundry:çamaşırhane
+lavish:cömert
+law:kanun
+lawn:çim
+lawsuit:dava
+layer:katman
+lazy:tembel
+lead:öncülük etmek
+leaf:yaprak
+league:lig
+leak:sızıntı
+learn:öğrenmek
+lease:kira
+lecture:ders
+leech:sülük
+left:sol
+leg:bacak
+legal:yasal
+legend:efsane
+leisure:boş vakit
+lemon:limon
+lend:ödünç vermek
+length:uzunluk
+lesson:ders
+letter:harf
+level:seviye
+liberate:kurtarmak
+library:kütüphane
+license:lisans
+lid:kapak
+life:hayat
+lifestyle:yaşam tarzı
+lifetime:ömür
+light:hafif
+machine:makine
+magazine:dergi
+magic:büyü
+magnet:mıknatıs
+mail:posta
+main:ana
+maintain:bakım yapmak
+major:büyük
+make:yapmak
+manage:yönetmek
+manifest:açık
+manipulate:manipüle etmek
+manual:manuel
+manufacture:imal etmek
+map:harita
+marble:mermer
+march:marş
+margin:kenar
+mark:işaret
+market:pazar
+marriage:evlilik
+mask:maske
+mass:kütle
+master:usta
+match:maç
+material:malzeme
+mathematics:matematik
+matrix:matris
+matter:madde
+maximum:maksimum
+maze:labirent
+measure:ölçmek
+mechanism:mekanizma
+medal:madalya
+medical:tıbbi
+meditate:meditasyon yapmak
+medium:ortam
+meet:buluşmak
+melody:melodi
+melt:eritmek
+member:üye
+memory:bellek
+mental:mental
+mention:bahsetmek
+merchant:tüccar
+merge:birleşmek
+message:mesaj
+metal:metal
+method:metod
+midnight:gece yarısı
+mile:mil
+military:askeri
+mind:akıl
+name:isim
+narrow:dar
+nation:ulus
+native:yerli
+natural:doğal
+navigate:navigasyon yapmak
+near:yakın
+necessary:gerekli
+neck:boyun
+negative:negatif
+neglect:ihmal etmek
+neighbor:komşu
+neither:ne de
+nephew:yeğen
+nerve:sinir
+nest:yuva
+net:ağ
+network:ağ
+neutral:tarafsız
+never:asla
+new:yeni
+news:haber
+next:sonraki
+nice:güzel
+night:gece
+no:hayır
+noise:gürültü
+nominate:aday göstermek
+none:hiçbiri
+noon:öğle
+normal:normal
+north:kuzey
+nose:burun
+note:not
+nothing:hiçbir şey
+notice:fark etmek
+novel:roman
+now:şimdi
+nowhere:hiçbir yer
+nuclear:nükleer
+number:sayı
+nurse:hasta bakıcı
+nut:fındık
+nutrition:beslenme
+ocean:okyanus
+offer:teklif etmek
+office:ofis
+often:sıklıkla
+oil:yağ
+oak:meşe
+oath:yemin
+obey:itaat etmek
+object:nesne
+obligate:zorlamak
+observe:gözlemlemek
+obstacle:engel
+obtain:elde etmek
+obvious:açık
+occasion:fırsat
+occupy:işgal etmek
+occur:meydana gelmek
+odd:garip
+offend:üzülmek
+offset:dengelemek
+okay:pekala
+old:yaşlı
+olive:zeytin
+omen:alama
+omit:atlamak
+on:üzerinde
+once:bir kere
+one:bir
+onion:soğan
+only:sadece
+open:açmak
+operate:çalıştırmak
+opinion:görüş
+oppose:karşı çıkmak
+oppress:eziyet etmek
+option:seçenek
+or:veya
+orange:portakal
+orbit:yörünge
+orchestra:orkestra
+order:sıralamak
+organ:organ
+orient:oriente etmek
+original:orijinal
+ornament:süs
+orphan:yetim
+other:diğer
+outline:taslak
+output:çıktı
+outside:dışarıda
+pace:adım
+package:paket
+page:sayfa
+pain:ağrı
+paint:boya
+pair:çift
+palace:saray
+pale:solgun
+palm:avuç içi
+pandemic:salgın
+panel:pano
+panic:panik
+paper:kağıt
+parade:geçit töreni
+parcel:parsel
+pardon:af
+parent:ebeveyn
+park:park
+part:kısım
+party:parti
+pass:geçmek
+passenger:yolcu
+passport:pasaport
+past:geçmiş
+paste:yapıştırmak
+patent:patent
+path:yol
+patience:sabır
+patient:hasta
+pattern:desen
+pause:duraklama
+pay:ödemek
+peace:barış
+peak:zirve
+pearl:inci
+peasant:köylü
+pedal:pedal
+pen:kalem
+pencil:kurşun kalem
+penetrate:nüfuz etmek
+people:insanlar
+perceive:algılamak
+percent:yüzde
+perfect:mükemmel
+perform:performans sergilemek
+perfume:parfüm
+period:periyot
+permit:izin
+person:kişi
+persuade:ikna etmek
+pet:evcil hayvan
+petition:dilekçe
+phase:evre
+race:yarış
+radar:radar
+radiant:parıltılı
+radiate:yaymak
+radical:radikal
+radio:radyo
+rage:öfke
+rain:yağmur
+raise:kaldırmak
+rally:toplantı
+random:rasgele
+range:menzil
+rank:rütbe
+rapid:hızlı
+rare:nadir
+rate:oran
+rather:oldukça
+ratio:oran
+rational:rasyonel
+reach:ulaşmak
+react:tepki göstermek
+read:okumak
+ready:hazır
+real:gerçek
+reality:gerçeklik
+realize:farkına varmak
+really:gerçekten
+reason:sebep
+rebel:asi
+recall:hatırlamak
+receive:almak
+recent:son zamanlarda
+recipe:tarif
+reckless:dikkatsiz
+recognize:tanımak
+recommend:önermek
+record:kayıt
+recover:kurtarmak
+recycle:geri dönüşüm yapmak
+red:kırmızı
+reduce:azaltmak
+refer:atıfta bulunmak
+reflect:yansıtmak
+reform:reform
+refuge:sığınak
+refuse:reddetmek
+regard:dikkate almak
+region:bölge
+regret:pişmanlık
+regular:düzenli
+regulate:düzenlemek
+rehearse:prova yapmak
+quaint:antik eski moda
+quantify:miktarını belirlemek
+quality:kalite
+quantity:miktar
+quarrel:kavga etmek
+quarter:dörtte biri
+queen:kraliçe
+query:sorgu
+quest:arama
+question:soru
+quick:hızlı
+quiet:sessiz
+quilt:yorgan
+quit:ayrılmak
+quiz:sınav test
+quota:kontenjan
+quote:alıntı yapmak
+quench:söndürmek
+quicken:hızlandırmak
+quiver:titremek
+quarantine:karantina
+qualification:nitelik
+qualify:nitelendirmek
+questionable:şüpheli
+quicksand:hızlı kum
+quite:oldukça
+quorum:katılım yeter sayısı
+quasar:kuasar
+sabotage:sabotaj
+sacred:kutsal
+sad:üzgün
+safe:güvenli
+sail:yelken
+sake:için hatır için
+salad:salata
+salary:maaş
+sale:indirim
+salt:tuz
+same:aynı
+sample:örnek
+sand:kum
+satisfy:tatmin etmek
+save:kurtarmak
+scale:ölçek
+scan:tarayıcı
+scare:korkutmak
+scene:sahne
+schedule:programlamak
+scheme:plan
+science:bilim
+score:puan
+scramble:karıştırmak
+scratch:kaşımak çizik
+screen:ekran
+script:senaryo
+scroll:kaydırmak
+search:aramak
+season:sezon
+seat:koltuk
+second:ikinci
+secret:gizli
+section:bölüm
+secure:guvenli
+seed:tohum
+seek:aramak
+seem:görünmek
+segment:segment
+seize:el koymak
+select:seçmek
+self:kendisi
+sell:satmak
+send:göndermek
+senior:üst düzey
+sense:duyu
+sentence:cümle
+separate:ayırmak
+sequence:sıra
+series:dizi
+serious:ciddi
+serve:sunmak
+session:oturum
+set:ayarlamak
+settled:sabit
+taboo:tabu
+tact:taktik
+tag:etiket
+tail:kuyruk
+take:almak
+talent:yetenek
+talk:konuşmak
+tall:uzun
+tame:evcilleştirmek
+tangent:teğet
+tangle:karıştırmak
+tank:depomak
+tap:hafifçe vurmak
+target:hedef
+task:görev
+taste:tatmak
+tax:vergi
+teach:öğretmek
+team:takım
+tear:yırtmak
+technical:teknik
+technology:teknoloji
+tedious:sıkıcı
+teem:bolluk içinde bulunmak
+telecom:telekomünikasyon
+telescope:teleskop
+tell:söylemek
+temper:huysuzluk
+tend:eğilimli olmak
+tense:gergin
+term:terim
+terrace:teras
+test:test etmek
+text:metin
+theme:tema
+theory:teori
+there:orada
+thermal:ısıl
+thick:kalın
+thief:hırsız
+thin:ince
+thing:şey
+think:düşünmek
+thirsty:susamış
+this:bu
+thorough:kapsamlı
+though:rağmen
+threat:tehlike
+thrive:gelişmek
+through:arasından
+throw:atmak
+thrust:itme
+ticket:bilet
+tide:gelgit
+ulcer:ülser
+ultimate:son
+umbrella:şemsiye
+unanimous:oybirliğiyle
+unaware:habersiz
+uncertain:belirsiz
+unchangeable:değişmez
+uncle:amca
+uncover:örtüyü kaldırmak
+under:altında
+understand:anlamak
+undertake:üstlenmek
+undo:geri almak
+undress:soyunmak
+unearth:ortaya çıkarmak
+unequal:eşit olmayan
+unfair:haksız
+unfold:açmak ortaya çıkarmak
+unfortunate:şanssız
+unhappy:mutsuz
+uniform:üniforma
+unique:benzersiz
+unit:birim
+unite:birleştirmek
+universe:evren
+unknown:bilinmeyen
+unless:-medikçe
+unlike:farklı
+unlikely:olası değil
+unload:boşaltmak
+unlock:kilidi açmak
+unlucky:şanssız
+unpleasant:hoş olmayan
+unreasonable:mantıksız
+unrest:huzursuzluk
+unruly:terbiyesiz
+unsafe:güvenli olmayan
+unsatisfactory:tatmin edici olmayan
+unseen:görünmeyen
+unsettle:rahatsız etmek
+unsure:emin olmayan
+untie:çözmek
+until:-e kadar
+untouchable:dokunulmaz
+unusual:olağandışı
+unveil:açığa çıkarmak
+unwilling:gönülsüz
+up: yukarı
+update: güncelleme
+upon: üzerine
+upper: üst
+upset: üzgün
+uptight: gergin
+upward: yukarı doğru
+urban: kentsel
+urge: dürtü
+urgent: acil
+usage: kullanım
+vacant:boş
+vaccine:aşı
+vacuum:vakum
+vague:belirsiz
+valid:geçerli
+valley:vadi
+value:değer
+vanish:ortadan kaybolmak
+vapor:buhar
+variable:değişken
+varied:çeşitli
+variety:çeşit
+various:çeşitli
+vary:değişmek
+vast:geniş
+vegetable:sebze
+vehicle:araç
+veil:örtü
+velocity:hız
+vendor:satıcı
+venture:cesaret etmek
+verbal:sözlü
+verify:doğrulamak
+versatile:çok yönlü
+verse:kıta
+version:sürüm
+vertical:dikey
+vessel:araç
+vest:yelek
+veteran:gazi
+vex:kızdırmak
+via:aracılığıyla
+vibrate:titremek
+vice:yardımcı
+victim:kurban
+victory:zafer
+video:video
+view:görünüm
+vigilant:uyanık
+village:köy
+villain:kötü karakter
+vine:asma
+violate:ihlal etmek
+violence:şiddet
+violent:şiddetli
+virtual:sanal
+virtue:erdem
+visible:görünür
+vision:görüş
+visit:ziyaret etmek
+visual:görsel
+wage:ücret
+wait:beklemek
+walk:yürümek
+wall:duvar
+wallet:cep cüzdanı
+wander:amaçsızca dolaşmak
+want:istemek
+war:savaş
+warm:sıcak
+warn:uyarmak
+wash:yıkamak
+waste:israf etmek
+watch:izlemek
+water:su
+wave:dalga
+way:yol
+weak:zayıf
+wealth:varlık
+wear:giymek
+weather:hava durumu
+wedding:düğün
+week:hafta
+weight:ağırlık
+welcome:hoş geldin
+well:iyi
+west:batı
+wheel:tekerlek
+when:ne zaman
+where:nerede
+whether:olup olmadığı
+which:hangi
+while:iken
+whisper:fısıldamak
+white:beyaz
+who:kim
+whole:tüm
+why:niçin
+wide:geniş
+wife:eş
+wild:vahşi
+will:irade
+win:Kazanmak
+wind:rüzgar
+window:pencere
+wine:şarap
+wing:kanat
+winter:kış
+wire:tel
+wise:bilge
+wish:istemek
+xenophobia:yabancı korkusu
+xerophyte:kuraklık bitkisi
+xerox:xerografik kopya yapmak
+xylitol:şeker alkolleri
+xylophone:ksilofon
+x-axis:x ekseni
+xenon:ksenon
+x-ray:rentgen
+xenophile:yabancılara düşkünlük
+xenogenesis:yabancı üreme
+xerography:kserografi
+xerophilous:kuraklığa dayanıklı
+x-height:x yüksekliği
+xeric:kurak
+xenotropic:tür yabancısı
+xenomorphic:yabancı formda
+xenoplastic:yabancı madde içeren
+xerothermic:kuraklık seven
+xiphoid:hançer şeklinde
+xenomania:yabancı kültür düşkünlüğü
+xylol:kimyasal çözücü
+xylidine:kimyasal bir madde
+xanthan:bir çeşit polisakkarit
+xanthine:ksantin
+xenolith:yabancı kaya parçası
+xenotransplantation:yabancı doku nakli
+xerophthalmia:kuru göz
+xerostomia:ağız kuruluğu
+xenolithic:yabancı kaya parçaları
+xenogenic:yabancı kaynaklı
+xenogeny:yabancı üreme
+yacht:yat
+yard:avlu
+yarn:iplik
+yawn:esnemek
+year:yıl
+yellow:sarı
+yield:verim
+yoga:yoga
+yogurt:yoğurt
+yolk:sarı
+young:genç
+youth:gençlik
+yoke:boyunduruk
+yummy:lezzetli
+yonder:şurası
+yell:bağırmak
+yearn:hasret çekmek
+yearly:yıllık
+zebra:zebra
+zero:sıfır
+zenith:zenit
+zigzag:zigzag
+zinc:çinko
+zip:fermuar
+zone:bölge
+zoo:hayvanat bahçesi
+zephyr:yumuşak rüzgar
+zeppelin:zeplin
+zeal:şevk
+zen:zen
+zest:neşe
+zealot:fanatik
